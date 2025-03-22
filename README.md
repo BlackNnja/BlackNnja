@@ -40,7 +40,7 @@ Here is a phishing template for you 🐟😉
 
 
 
-```sql
+```r
 
 ⚠ [Hacker@Kali] [14:32:45] ~/Secrets $ ./Hack_The_World.sh
 
