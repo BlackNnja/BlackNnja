@@ -22,6 +22,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+## 🔗 My GitHub Repository  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Love to hate Telegram 💔📱,
+
+Here is a phishing template for you 🐟😉
+
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Telegram--Phishing--Bot-blue?style=for-the-badge&logo=github)](https://github.com/BlackNnja/Telegram-Phishing-Bot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Phishing-Bot&theme=dark)](https://github.com/BlackNnja/Telegram-Phishing-Bot)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -53,9 +68,10 @@ Started Hacking ...
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Armed+With+Kali+Linux" alt="Typing SVG" /></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 <p align="center">
