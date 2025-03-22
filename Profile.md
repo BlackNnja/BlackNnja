@@ -9,17 +9,17 @@
 ⭐️```Hacking``` ```,``` ```Development``` ```,``` ```Designing``` ```,``` ```Music``` ```&``` ```Creativity```⭐️
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <a href="https://t.me/israelihack" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Telegram Community```  | <a href="https://t.me/Blacknnja" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Contact Me``` | [☕️](https://www.paypal.com/ncp/payment/UBJJZZQJVBY5Q) ```Buy Me A Coffee``` 
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/MostW4nted.png" alt="Your Image Badge" width=200/> | ![Arrexel](https://www.hackthebox.eu/badge/image/1212648)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/MostW4nted.png" alt="Your Image Badge" width=200/> ![Arrexel](https://www.hackthebox.eu/badge/image/1212648)
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Armed+With+Kali+Linux" alt="Typing SVG" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ```sql
