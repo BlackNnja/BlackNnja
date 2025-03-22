@@ -57,3 +57,12 @@ Started Hacking ...
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Armed+With+Kali+Linux" alt="Typing SVG" /></a>
 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3MogV4QhpF8&ab_channel=KosmicKebab">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="50" height="50"/>
+  </a>
+  <br>
+  🎶 <strong>Check My YouTube Channel</strong>
+</p>
+
