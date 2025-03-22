@@ -24,7 +24,7 @@
 
 ```sql
 
-⚠️ [Hacker@Kali] [14:32:45] ~/Secrets $ ./Hack_The_World.sh
+⚠️ [Hacker@Kali] [??:??:??] ~/Secrets $ ./Hack_The_World.sh
 
 Started Hacking ...
 
