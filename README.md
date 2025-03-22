@@ -18,7 +18,7 @@
 
 
 
-```
+```sql
 
 ⚠ [Hacker@Kali] [14:32:45] ~/Secrets $ ./Hack_The_World.sh
 
