@@ -130,6 +130,30 @@
 <div align=center>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-%231f487c.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-O-%23006AFF.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-M-%23FF8800.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-E-%23167AFC.svg?style=for-the-badge&">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/-H-%23000000.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-A-%23B50000.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-C-%23CCCCCC.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-K-%23FBB034.svg?style=for-the-badge&">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/-W-%23FFD700.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-I-%2300B5B5.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-T-%23F05A28.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-H-%2303A6A4.svg?style=for-the-badge&">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.shields.io/badge/-M-%23E96B1C.svg?style=for-the-badge&">
+  <img src="https://img.shields.io/badge/-E-%23E96B1C.svg?style=for-the-badge&">
+</p>
+
+
 ```
 
 ⠉⠉⠉⠉⠁⠀⠀⠀⠀⠒⠂⠰⠤⢤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -154,10 +178,19 @@
 <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Armed+With+Kali+Linux" alt="Typing SVG" /></a>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3MogV4QhpF8&ab_channel=KosmicKebab">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="50" height="50"/>
   </a>
   <br>
-  🎶 <strong>Check My Music YouTube Channel</strong>
+  <p>🎶 Check My Music YouTube Channel</p>
 </p>
+
+
+
+
+
+
+
