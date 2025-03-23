@@ -5,12 +5,6 @@
   <p><code>🦇Welcome To My Cave🦇</code></p>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ```👑```‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-<img src="https://github.com/user-attachments/assets/a964e94b-1b23-4642-8ff3-569d78d38388" width="75" />    ‎ ‎ ‎ ‎ ‎ ‎ ‎  [![Typing SVG](https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Meowhack!)](https://git.io/typing-svg) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
 <div align="center">
  
 ![1000044142](https://github.com/user-attachments/assets/f47e1f24-e9a7-429a-9abe-af61c0e53f43)
@@ -20,11 +14,13 @@
 <a href="https://t.me/israelihack" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Telegram Community```  | <a href="https://t.me/Blacknnja" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Contact Me``` | [☕️](https://www.paypal.com/ncp/payment/UBJJZZQJVBY5Q) ```Buy Me A Coffee```
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MostW4nted.png" alt="Your Image Badge" width=200/>    ![Arrexel](https://www.hackthebox.eu/badge/image/1212648)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                              
+<h1>                               
 <div align="left">
+  
+‎ ‎ ‎👑 ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+<img src="https://github.com/user-attachments/assets/a964e94b-1b23-4642-8ff3-569d78d38388" width="75" />    ‎ ‎ ‎ ‎ ‎ ‎ ‎  [![Typing SVG](https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Meowhack!)](https://git.io/typing-svg) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+</h1>
 <h2>🔥 Hacking Tools</h2>
 <p>Essential tools for penetration testing, network analysis, and cybersecurity exploits.</p>
 <p>
