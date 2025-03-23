@@ -81,8 +81,9 @@
 
 ‎</div>
 
+<div align=center>
 
-## 🔗 My Own Favourite Repos 💔
+<h2>🔗 My Own Favourite Repos 💔</h2>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -127,6 +128,7 @@
 ---  
 
 [![](https://visitcount.itsvg.in/api?id=BlackNNJA&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align=center>
 
 
 ```
@@ -151,7 +153,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Armed+With+Kali+Linux" alt="Typing SVG" /></a>
-
+</div>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3MogV4QhpF8&ab_channel=KosmicKebab">
