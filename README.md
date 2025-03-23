@@ -113,14 +113,6 @@
   </tr>
 </table>
 
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![](https://github-readme-stats.vercel.app/api?username=BlackNNJA&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&width=300) 
-![](https://nirzak-streak-stats.vercel.app/?user=BlackNNJA&theme=shadow_green&hide_border=false&width=300)  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackNNJA&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact&width=100)  
