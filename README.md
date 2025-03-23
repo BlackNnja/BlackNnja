@@ -1,5 +1,13 @@
+<div align="right">
+  <p>🇮🇱</p>
+</div>
+<div align="center">
+  <p><code>🦇Welcome To My Cave🦇</code></p>
+</div>
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ```👑```‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🇮🇱
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ```👑```‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 <img src="https://github.com/user-attachments/assets/a964e94b-1b23-4642-8ff3-569d78d38388" width="75" />    ‎ ‎ ‎ ‎ ‎ ‎ ‎  [![Typing SVG](https://ghrmt.vercel.app?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&random=false&width=435&lines=Meowhack!)](https://git.io/typing-svg) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
@@ -14,25 +22,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/MostW4nted.png" alt="Your Image Badge" width=200/>    ![Arrexel](https://www.hackthebox.eu/badge/image/1212648)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-## 🔗 My GitHub Repository  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Love to hate Telegram 💔📱,
-<p width:10 >Here is a phishing template for you 🐟😉</p>
-
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Telegram--Phishing--Bot-blue?style=for-the-badge&logo=github)](https://github.com/BlackNnja/Telegram-Phishing-Bot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Phishing-Bot&theme=dark)](https://github.com/BlackNnja/Telegram-Phishing-Bot)
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
                                               
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <div align="left">
 
 <h2>🔥 Hacking Tools</h2>
@@ -47,7 +37,14 @@ Love to hate Telegram 💔📱,
   <img src="https://img.shields.io/badge/SQLmap-%23B50000.svg?style=for-the-badge&logo=sqlmap&logoColor=white">
   <img src="https://img.shields.io/badge/Aircrack_ng-%23CCCCCC.svg?style=for-the-badge&logo=aircrack-ng&logoColor=black">
   <img src="https://img.shields.io/badge/Hashcat-%23FBB034.svg?style=for-the-badge&logo=hashcat&logoColor=white">
+  <img src="https://img.shields.io/badge/tcpdump-%23FFD700.svg?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/YARA-%2300B5B5.svg?style=for-the-badge&logo=yara&logoColor=white">
+  <img src="https://img.shields.io/badge/ffuf-%23F05A28.svg?style=for-the-badge&logo=ffuf&logoColor=white">
+  <img src="https://img.shields.io/badge/CyberChef-%2303A6A4.svg?style=for-the-badge&logo=cyberchef&logoColor=white">
+  <img src="https://img.shields.io/badge/Shodan.io-%23E96B1C.svg?style=for-the-badge&logo=shodan&logoColor=white">
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h2>🎨 Creative Tools</h2>
 <p>Software for design, music production, and digital content creation.</p>
@@ -56,7 +53,11 @@ Love to hate Telegram 💔📱,
   <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
   <img src="https://img.shields.io/badge/FL_Studio-%23FFA500.svg?style=for-the-badge&logo=flstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-%23007AFF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Stability_Matrix-%23000000.svg?style=for-the-badge&logo=matrix&logoColor=white">
+  <img src="https://img.shields.io/badge/Stable_Diffusion-%2300B5B5.svg?style=for-the-badge&logo=stable-diffusion&logoColor=white">
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h2>💻 Programming Languages & Scripting</h2>
 <p>Languages and scripting tools for software development and automation.</p>
@@ -70,22 +71,59 @@ Love to hate Telegram 💔📱,
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h2>🖥 Operating Systems & Cloud</h2>
 <p>Platforms and environments for computing, security, and cloud services.</p>
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-%230078D6.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Android-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
+
 ‎</div>
 
 
-<div align="center">
+## 🔗 My Own Favourite Repos 💔
 
-![](https://github-readme-stats.vercel.app/api?username=BlackNNJA&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false) 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- First Repo: Telegram Phishing Bot -->
+    <td align="center" style="border: none; padding-right: 40px;">
+      <h3 style="font-size: 12px;">💔 Love to Hate Telegram 📱</h3>
+      <p style="font-size: 10px;">Here is a phishing template for you 🐟😉</p>
+      <a href="https://github.com/BlackNnja/Telegram-Phishing-Bot">
+        <img src="https://img.shields.io/badge/GitHub-Telegram--Phishing--Bot-blue?style=for-the-badge&logo=github" alt="GitHub Repo" width="180">
+      </a>
+      <br/>
+      <a href="https://github.com/BlackNnja/Telegram-Phishing-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Phishing-Bot&theme=dark" alt="GitHub Repo Card" width="250">
+      </a>
+    </td>
+    <td align="center" style="border: none; padding-left: 40px;">
+      <h3 style="font-size: 12px;">📩 Telegram Forward Script</h3>
+      <p style="font-size: 10px;">Automatically forward messages with this script 🔄📨</p>
+      <a href="https://github.com/BlackNnja/Telegram-Forward-Script">
+        <img src="https://img.shields.io/badge/GitHub-Telegram--Forward--Script-blue?style=for-the-badge&logo=github" alt="GitHub Repo" width="180">
+      </a>
+      <br/>
+      <a href="https://github.com/BlackNnja/Telegram-Forward-Script">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Forward-Script&theme=dark" alt="GitHub Repo Card" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=BlackNNJA&theme=shadow_green&hide_border=false)  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+![](https://github-readme-stats.vercel.app/api?username=BlackNNJA&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=BlackNNJA&theme=shadow_green&hide_border=false)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackNNJA&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
@@ -94,7 +132,6 @@ Love to hate Telegram 💔📱,
 
 [![](https://visitcount.itsvg.in/api?id=BlackNNJA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
 
 ```
 
