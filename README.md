@@ -21,7 +21,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MostW4nted.png" alt="Your Image Badge" width=200/>    ![Arrexel](https://www.hackthebox.eu/badge/image/1212648)
                                
-<div align="center">
+<div align="left">
 
   
 ‎ ‎ ‎      👑‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
