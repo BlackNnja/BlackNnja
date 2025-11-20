@@ -10,7 +10,8 @@
 </div>
 
 <div align="center">
- 
+
+
 ![1000044142](https://github.com/user-attachments/assets/f47e1f24-e9a7-429a-9abe-af61c0e53f43)
 
 ⭐️```Hacking``` ```,``` ```Development``` ```,``` ```Designing``` ```,``` ```Music``` ```&``` ```Creativity```⭐️
@@ -18,7 +19,13 @@
 <a href="https://t.me/israelihack" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Telegram Community```  | <a href="https://t.me/Blacknnja" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Contact Me``` | [☕️](https://www.paypal.com/ncp/payment/UBJJZZQJVBY5Q) ```Buy Me A Coffee```
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MostW4nted.png" alt="Your Image Badge" width=200/>    ![Arrexel](https://www.hackthebox.eu/badge/image/1212648)
-                               
+
+ # Check My Last Gemini Static web Page : https://blacknnja.github.io/Gemini-Mood-News/
+
+See What Gemini Think About our live news 
+
+https://github.com/user-attachments/assets/93fc0724-64dd-477e-9b83-9573b0792312
+
 <div align="left">
 
   
@@ -83,6 +90,8 @@
   <img src="https://img.shields.io/badge/Android-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Google-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+
 </p>
 
 
@@ -90,7 +99,7 @@
 
 <div align=center>
 
-<h2> My Own Favourite Repos 💔</h2>
+<h2> My Favourite Repos 💔</h2>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -104,18 +113,6 @@
       <br/>
       <a href="https://github.com/BlackNnja/Telegram-Phishing-Bot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Phishing-Bot&theme=dark" alt="GitHub Repo Card" width="250">
-      </a>
-    </td>
-    <td align="center" style="border: none; padding-left: 40px;">
-      <h3 style="font-size: 12px;">📩 Telegram Forward Script</h3>
-      <p style="font-size: 10px;">Automatically forward messages with this script 🔄📨</p>
-      <a href="https://github.com/BlackNnja/Telegram-Forward-Script">
-        <img src="https://img.shields.io/badge/GitHub-Telegram--Forward--Script-blue?style=for-the-badge&logo=github" alt="GitHub Repo" width="180">
-      </a>
-      <br/>
-      <a href="https://github.com/BlackNnja/Telegram-Forward-Script">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Forward-Script&theme=dark" alt="GitHub Repo Card" width="250">
-      </a>
     </td>
   </tr>
 </table>
