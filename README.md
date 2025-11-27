@@ -20,12 +20,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3NpbnQgc29tZSBlbHNl.png" alt="Your Image Badge" width=200/>    
 
- # Check My Last Gemini Static web Page : https://blacknnja.github.io/Gemini-Mood-News/
-
-See What Gemini Think About our live news 
-
-https://github.com/user-attachments/assets/93fc0724-64dd-477e-9b83-9573b0792312
-
 <div align="left">
 
   
@@ -35,69 +29,145 @@ https://github.com/user-attachments/assets/93fc0724-64dd-477e-9b83-9573b0792312
 
 ---  
 
-<h2>🔥 Hacking Tools</h2>
-<p>Essential tools for penetration testing, network analysis, and cybersecurity exploits.</p>
-<p>
-  <img src="https://img.shields.io/badge/Metasploit-%231f487c.svg?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-%23006AFF.svg?style=for-the-badge&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp_Suite-%23FF8800.svg?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Wireshark-%23167AFC.svg?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/Hydra-%23A80000.svg?style=for-the-badge&logo=hydra&logoColor=white">
-  <img src="https://img.shields.io/badge/John_The_Ripper-%23000000.svg?style=for-the-badge&logo=johntheripper&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLmap-%23B50000.svg?style=for-the-badge&logo=sqlmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Aircrack_ng-%23CCCCCC.svg?style=for-the-badge&logo=aircrack-ng&logoColor=black">
-  <img src="https://img.shields.io/badge/Hashcat-%23FBB034.svg?style=for-the-badge&logo=hashcat&logoColor=white">
-  <img src="https://img.shields.io/badge/tcpdump-%23FFD700.svg?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/YARA-%2300B5B5.svg?style=for-the-badge&logo=yara&logoColor=white">
-  <img src="https://img.shields.io/badge/ffuf-%23F05A28.svg?style=for-the-badge&logo=ffuf&logoColor=white">
-  <img src="https://img.shields.io/badge/CyberChef-%2303A6A4.svg?style=for-the-badge&logo=cyberchef&logoColor=white">
-  <img src="https://img.shields.io/badge/Shodan.io-%23E96B1C.svg?style=for-the-badge&logo=shodan&logoColor=white">
-</p>
+# 🔥 Hacking Tools  
+Essential tools for penetration testing, reconnaissance, enumeration, network analysis, password auditing, exploitation, tunneling, and OSINT.
+
+---
+
+📡 Reconnaissance & Scanning : 
+![Nmap](https://img.shields.io/badge/Nmap-006AFF?style=for-the-badge&logo=nmap&logoColor=white)
+![Masscan](https://img.shields.io/badge/Masscan-000000?style=for-the-badge)
+![Rustscan](https://img.shields.io/badge/Rustscan-B7410E?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-000000?style=for-the-badge)
+![Amass](https://img.shields.io/badge/Amass-004C99?style=for-the-badge)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-000000?style=for-the-badge)
+![Wappalyzer](https://img.shields.io/badge/Wappalyzer-430098?style=for-the-badge)
+
+🗂 Enumeration : 
+![Gobuster](https://img.shields.io/badge/Gobuster-5A01A7?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-F05A28?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-000000?style=for-the-badge)
+![Enum4Linux](https://img.shields.io/badge/Enum4Linux-000000?style=for-the-badge)
+![Impacket](https://img.shields.io/badge/Impacket-004488?style=for-the-badge)
+![LDAPSearch](https://img.shields.io/badge/LDAPSearch-000000?style=for-the-badge)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=for-the-badge)
+
+
+🛠 Exploitation Frameworks : 
+![Metasploit](https://img.shields.io/badge/Metasploit-1f487c?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-009FDA?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-B50000?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
+![Autorecon](https://img.shields.io/badge/AutoRecon-000000?style=for-the-badge)
+![Responder](https://img.shields.io/badge/Responder-000000?style=for-the-badge)
+
+
+🔐 Password Attacks & Hash Cracking : 
+![Hydra](https://img.shields.io/badge/Hydra-A80000?style=for-the-badge)
+![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-FBB034?style=for-the-badge)
+![Crunch](https://img.shields.io/badge/Crunch-000000?style=for-the-badge)
+
+
+📶 Wireless & Network Analysis : 
+![Wireshark](https://img.shields.io/badge/Wireshark-167AFC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-CCCCCC?style=for-the-badge&logoColor=000)
+![tcpdump](https://img.shields.io/badge/tcpdump-FFD700?style=for-the-badge)
+![Bettercap](https://img.shields.io/badge/Bettercap-000000?style=for-the-badge)
+![Ettercap](https://img.shields.io/badge/Ettercap-003366?style=for-the-badge)
+
+
+🎯 Active Directory & Internal Pentesting : 
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=for-the-badge)
+![Kerbrute](https://img.shields.io/badge/Kerbrute-000000?style=for-the-badge)
+
+
+🌐 OSINT & Intelligence Gathering : 
+![Shodan](https://img.shields.io/badge/Shodan.io-E96B1C?style=for-the-badge)
+![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-222222?style=for-the-badge)
+![Exiftool](https://img.shields.io/badge/ExifTool-000000?style=for-the-badge)
+
+
+🧰 Utility, Tunneling & Proxy Tools : 
+![Chisel](https://img.shields.io/badge/Chisel-000000?style=for-the-badge)
+![Ngrok](https://img.shields.io/badge/Ngrok-333333?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-E00000?style=for-the-badge)
+![Proxychains](https://img.shields.io/badge/Proxychains-000000?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge)
+
+
+🔍 Forensics, Malware & Analysis : 
+![YARA](https://img.shields.io/badge/YARA-00B5B5?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-03A6A4?style=for-the-badge)
+![Strings](https://img.shields.io/badge/strings-000000?style=for-the-badge)
+![Binwalk](https://img.shields.io/badge/Binwalk-000000?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge)
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2>🎨 Creative Tools</h2>
-<p>Software for design, music production, and digital content creation.</p>
-<p>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
-  <img src="https://img.shields.io/badge/FL_Studio-%23FFA500.svg?style=for-the-badge&logo=flstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-%23007AFF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Stability_Matrix-%23000000.svg?style=for-the-badge&logo=matrix&logoColor=white">
-  <img src="https://img.shields.io/badge/Stable_Diffusion-%2300B5B5.svg?style=for-the-badge&logo=stable-diffusion&logoColor=white">
-</p>
+## 🎨 Creative Tools  
+Software for design, music production, and digital creativity.
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FFA500?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-007AFF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Stability Matrix](https://img.shields.io/badge/Stability_Matrix-000000?style=for-the-badge)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-00B5B5?style=for-the-badge)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2>💻 Programming Languages & Scripting</h2>
-<p>Languages and scripting tools for software development and automation.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-</p>
+## 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2>🖥 Operating Systems & Cloud</h2>
-<p>Platforms and environments for computing, security, and cloud services.</p>
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-%230078D6.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Google-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+## 🖥 Operating Systems & Cloud
 
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0078D6?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-039BE5?style=for-the-badge&logo=android&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 
 ‎</div>
 
 <div align=center>
+
+
+## 🚀 Project Showcase: Gemini Mood News
+
+Explore my latest static web page project powered by the Gemini API.
+
+**Project Title:** Gemini Mood News
+
+**Description:** See real-time sentiment analysis and summaries generated by the Gemini model based on live news feeds.
+
+| Resource | Link |
+| :--- | :--- |
+| **Live Demo** | [https://blacknnja.github.io/Gemini-Mood-News/](https://blacknnja.github.io/Gemini-Mood-News/) |
+
+**Demo Screenshot/Gif:**
+
+https://github.com/user-attachments/assets/93fc0724-64dd-477e-9b83-9573b0792312
 
 <h2> My Favourite Repos 💔</h2>
 
