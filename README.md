@@ -34,7 +34,8 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 ---
 
-📡 Reconnaissance & Scanning : 
+📡 Reconnaissance & Scanning :
+
 ![Nmap](https://img.shields.io/badge/Nmap-006AFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Masscan](https://img.shields.io/badge/Masscan-000000?style=for-the-badge)
 ![Rustscan](https://img.shields.io/badge/Rustscan-B7410E?style=for-the-badge)
@@ -44,6 +45,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![Wappalyzer](https://img.shields.io/badge/Wappalyzer-430098?style=for-the-badge)
 
 🗂 Enumeration : 
+
 ![Gobuster](https://img.shields.io/badge/Gobuster-5A01A7?style=for-the-badge)
 ![ffuf](https://img.shields.io/badge/ffuf-F05A28?style=for-the-badge)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-000000?style=for-the-badge)
@@ -54,6 +56,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 
 🛠 Exploitation Frameworks : 
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-1f487c?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-009FDA?style=for-the-badge)
@@ -64,6 +67,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 
 🔐 Password Attacks & Hash Cracking : 
+
 ![Hydra](https://img.shields.io/badge/Hydra-A80000?style=for-the-badge)
 ![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge)
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge)
@@ -72,6 +76,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 
 📶 Wireless & Network Analysis : 
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-167AFC?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-CCCCCC?style=for-the-badge&logoColor=000)
 ![tcpdump](https://img.shields.io/badge/tcpdump-FFD700?style=for-the-badge)
@@ -80,12 +85,14 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 
 🎯 Active Directory & Internal Pentesting : 
+
 ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge)
 ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=for-the-badge)
 ![Kerbrute](https://img.shields.io/badge/Kerbrute-000000?style=for-the-badge)
 
 
 🌐 OSINT & Intelligence Gathering : 
+
 ![Shodan](https://img.shields.io/badge/Shodan.io-E96B1C?style=for-the-badge)
 ![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-222222?style=for-the-badge)
@@ -93,6 +100,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 
 🧰 Utility, Tunneling & Proxy Tools : 
+
 ![Chisel](https://img.shields.io/badge/Chisel-000000?style=for-the-badge)
 ![Ngrok](https://img.shields.io/badge/Ngrok-333333?style=for-the-badge)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-E00000?style=for-the-badge)
@@ -102,6 +110,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 
 🔍 Forensics, Malware & Analysis : 
+
 ![YARA](https://img.shields.io/badge/YARA-00B5B5?style=for-the-badge)
 ![CyberChef](https://img.shields.io/badge/CyberChef-03A6A4?style=for-the-badge)
 ![Strings](https://img.shields.io/badge/strings-000000?style=for-the-badge)
