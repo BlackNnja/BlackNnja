@@ -16,7 +16,7 @@
 
 ⭐️```Hacking``` ```,``` ```Development``` ```,``` ```Designing``` ```,``` ```Music``` ```&``` ```Creativity```⭐️
 
-<a href="https://t.me/israelihack" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Telegram Community```  | <a href="https://t.me/israelihackerz" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Contact Me``` | [☕️](https://www.paypal.com/ncp/payment/UBJJZZQJVBY5Q) ```Buy Me A Coffee```
+<a href="https://t.me/israelihackerz" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Telegram Community```  | <a href="https://t.me/israelihack" target="_blank"><img src="https://github.com/user-attachments/assets/a3ce419d-8199-4dfb-93f3-18055b20bf11" alt="Telegram Channel" style="width: 20px; height: 20px;"></a> ```Contact Me``` | [☕️](https://www.paypal.com/ncp/payment/UBJJZZQJVBY5Q) ```Buy Me A Coffee```
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/b3NpbnQgc29tZSBlbHNl.png" alt="Your Image Badge" width=200/>    
 
