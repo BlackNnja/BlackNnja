@@ -34,7 +34,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 
 ---
 
-📡 Reconnaissance & Scanning :
+## 📡 Reconnaissance & Scanning :
 
 ![Nmap](https://img.shields.io/badge/Nmap-006AFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Masscan](https://img.shields.io/badge/Masscan-000000?style=for-the-badge)
@@ -44,7 +44,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![WhatWeb](https://img.shields.io/badge/WhatWeb-000000?style=for-the-badge)
 ![Wappalyzer](https://img.shields.io/badge/Wappalyzer-430098?style=for-the-badge)
 
-🗂 Enumeration : 
+## 🗂 Enumeration : 
 
 ![Gobuster](https://img.shields.io/badge/Gobuster-5A01A7?style=for-the-badge)
 ![ffuf](https://img.shields.io/badge/ffuf-F05A28?style=for-the-badge)
@@ -55,7 +55,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=for-the-badge)
 
 
-🛠 Exploitation Frameworks : 
+## 🛠 Exploitation Frameworks : 
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-1f487c?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -66,7 +66,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![Responder](https://img.shields.io/badge/Responder-000000?style=for-the-badge)
 
 
-🔐 Password Attacks & Hash Cracking : 
+## 🔐 Password Attacks & Hash Cracking : 
 
 ![Hydra](https://img.shields.io/badge/Hydra-A80000?style=for-the-badge)
 ![Medusa](https://img.shields.io/badge/Medusa-000000?style=for-the-badge)
@@ -75,7 +75,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![Crunch](https://img.shields.io/badge/Crunch-000000?style=for-the-badge)
 
 
-📶 Wireless & Network Analysis : 
+## 📶 Wireless & Network Analysis : 
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-167AFC?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-CCCCCC?style=for-the-badge&logoColor=000)
@@ -84,14 +84,14 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![Ettercap](https://img.shields.io/badge/Ettercap-003366?style=for-the-badge)
 
 
-🎯 Active Directory & Internal Pentesting : 
+## 🎯 Active Directory & Internal Pentesting : 
 
 ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge)
 ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-000000?style=for-the-badge)
 ![Kerbrute](https://img.shields.io/badge/Kerbrute-000000?style=for-the-badge)
 
 
-🌐 OSINT & Intelligence Gathering : 
+## 🌐 OSINT & Intelligence Gathering : 
 
 ![Shodan](https://img.shields.io/badge/Shodan.io-E96B1C?style=for-the-badge)
 ![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge)
@@ -99,7 +99,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![Exiftool](https://img.shields.io/badge/ExifTool-000000?style=for-the-badge)
 
 
-🧰 Utility, Tunneling & Proxy Tools : 
+## 🧰 Utility, Tunneling & Proxy Tools : 
 
 ![Chisel](https://img.shields.io/badge/Chisel-000000?style=for-the-badge)
 ![Ngrok](https://img.shields.io/badge/Ngrok-333333?style=for-the-badge)
@@ -109,7 +109,7 @@ Essential tools for penetration testing, reconnaissance, enumeration, network an
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge)
 
 
-🔍 Forensics, Malware & Analysis : 
+## 🔍 Forensics, Malware & Analysis : 
 
 ![YARA](https://img.shields.io/badge/YARA-00B5B5?style=for-the-badge)
 ![CyberChef](https://img.shields.io/badge/CyberChef-03A6A4?style=for-the-badge)
@@ -192,9 +192,22 @@ https://github.com/user-attachments/assets/93fc0724-64dd-477e-9b83-9573b0792312
       <br/>
       <a href="https://github.com/BlackNnja/Telegram-Phishing-Bot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Phishing-Bot&theme=dark" alt="GitHub Repo Card" width="250">
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <h3 style="font-size: 12px;">🕵️ Telegram Message Manipulation</h3>
+      <p style="font-size: 10px;">Edit & delete techniques for research purposes</p>
+      <a href="https://github.com/BlackNnja/Telegram-Messages-Edit-And-Delete-Technique">
+        <img src="https://img.shields.io/badge/GitHub-Telegram--Messages--Edit--Delete-blue?style=for-the-badge&logo=github" alt="GitHub Repo" width="180">
+      </a>
+      <br/>
+      <a href="https://github.com/BlackNnja/Telegram-Messages-Edit-And-Delete-Technique">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackNnja&repo=Telegram-Messages-Edit-And-Delete-Technique&theme=dark" alt="GitHub Repo Card" width="250">
+      </a>
     </td>
   </tr>
 </table>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
